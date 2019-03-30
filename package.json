@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-weather-console",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuicksilverParzival/nodejs-weather-console.git"
+  },
+  "author": "nicholas finan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuicksilverParzival/nodejs-weather-console/issues"
+  },
+  "homepage": "https://github.com/QuicksilverParzival/nodejs-weather-console#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
